@@ -1,6 +1,2 @@
-google-python-exercises/babynames/*.html linguist-vendored
-google-python-exercises/babynames/*.summary linguist-vendored
-google-python-exercises/babynames/solution/*.html linguist-vendored
-google-python-exercises/babynames/solution/*.summary linguist-vendored
-*.html linguist-vendored
-*.summary linguist-vendored
+* linguist-vendored
+*.py linguist-vendored=false
