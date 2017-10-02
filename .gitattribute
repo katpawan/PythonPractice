@@ -1,5 +1,4 @@
-google-python-exercises/babynames/*.html linguist-vendored
-google-python-exercises/babynames/*.html.summary linguist-vendored
-google-python-exercises/babynames/solution/*.html linguist-vendored
-google-python-exercises/babynames/solution/*.html.summary linguist-vendored
-*.py linguist-vendored=false
+PythonPractice/google-python-exercises/babynames/*.html linguist-vendored
+PythonPractice/google-python-exercises/babynames/*.html.summary linguist-vendored
+PythonPractice/google-python-exercises/babynames/solution/*.html linguist-vendored
+PythonPractice/google-python-exercises/babynames/solution/*.html.summary linguist-vendored
